@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=smart0120&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
@@ -39,8 +39,6 @@ Talking about Personal Stuffs:
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smart0120.smart0120" />
     <img align="right" src="https://img.shields.io/github/followers/smart0120?label=Follow&style=social" />
 </div>
-<h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smart0120&theme=github&count_private=true" /> 
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
