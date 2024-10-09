@@ -11,11 +11,11 @@ Talking about Personal Stuffs:
 
 - I'm a full-stack / blockchain / game developer who has much experience in IT industry.
 - Enterprise application development and support
-- <b>Blockchain</b> : Smart contract | Solana | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon
-- <b>Front-end</b> : Reactjs | Nextjs | Vuejs | Nuxtjs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter
+- <b>Front-end</b> : Reactjs | Nextjs | Vuejs | Nuxtjs | AngularJs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
+- <b>Back-end</b> : Node | Express | ROR | Django | ASP.NET | Laravel | CodeIgniter
 - <b>Mobile</b> : React-Native | Flutter | Ionic
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
+- <b>Blockchain</b> : Smart contract | Solana | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon
 - <b>Game</b> : Phaser3 | Unity3d
 - <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA 
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on
